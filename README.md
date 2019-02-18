@@ -1,0 +1,2 @@
+# Spicy-M
+Everything Spicy
